@@ -12,17 +12,17 @@ pip install -r requirements.txt
 ## How to Run the Code
 
 1. Clone the repository to your local machine:
-
-git clone https://github.com/SergKhachikyan/Loan_approval_kaggle.git
-
+   ```sh
+   git clone https://github.com/SergKhachikyan/Loan_approval_kaggle.git
+   ```
 2. Navigate to the project folder:
-
-cd Loan_approval
-
+   ```sh
+   cd Loan_approval
+   ```
 3. Install the required dependencies:
-   
-pip install -r requirements.txt
-
+   ```sh
+   pip install -r requirements.txt
+   ```
 4. Once the dependencies are installed, you can run the code and start predicting loan approvals based on the input data.
 
 ## How It Works
